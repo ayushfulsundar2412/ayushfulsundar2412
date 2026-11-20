@@ -1,4 +1,4 @@
-# Hi, I'm Ayush 👋
+# Hi, I'm Ayush Fulsundar 👋
 
 **Data engineer building reliable pipelines and agentic AI systems.**
 MS in Information Systems @ Northeastern University (graduating Dec 2026) · Boston, MA
