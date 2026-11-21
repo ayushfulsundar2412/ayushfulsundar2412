@@ -4,50 +4,13 @@
 
 <br>
 
-[**Choose your path**](#choose-your-path) · [**Projects**](#projects) · [**Career DAG**](#career-dag) · [**Engineering habits**](#engineering-habits) · [**Stack**](#stack) · [**Contact**](#contact)
+[**Projects**](#projects) · [**Career DAG**](#career-dag) · [**Engineering habits**](#engineering-habits) · [**Stack**](#stack) · [**Contact**](#contact)
 
 </div>
 
 <br>
 
 I build the plumbing that data and AI systems run on (ingestion, orchestration, warehouses) and the agents that sit on top of it. M.S. in Information Systems at Northeastern, graduating Dec 2026, based in Boston.
-
-## Choose your path
-
-This README has a few ways in. Pick the one that fits why you're here.
-
-<details>
-<summary><b>👔 I'm a recruiter</b>: give me the 30-second version</summary>
-
-<br>
-
-- **Who:** Data engineer · M.S. Information Systems, Northeastern (Dec 2026) · Boston, MA
-- **Proof:**
-  - **TariffIQ**: a 7-agent LangGraph system over 35,733 HTS codes
-  - **PE Org-AI-R**: a 7-dimension scoring engine with an MCP server
-  - **Thesis AI internship**: 100K+ records ingested daily, 20 FastAPI endpoints
-- **Toolbox:** Python, SQL, Airflow, Snowflake, FastAPI, LangGraph, Docker, GCP / AWS / Azure
-- **Reach me:** [LinkedIn](https://www.linkedin.com/in/ayush-fulsundar) · [Email](mailto:fulsundar.a@northeastern.edu)
-
-</details>
-
-<details>
-<summary><b>🛠️ I'm an engineer</b>: show me how it's built</summary>
-
-<br>
-
-Open the project cards under [Projects](#projects). Each one has an architecture sketch and the numbers behind it. Then skim [Engineering habits](#engineering-habits), where every claim points back to something I actually shipped.
-
-</details>
-
-<details>
-<summary><b>🤝 I want to build something together</b></summary>
-
-<br>
-
-Working on agent pipelines, data platforms, or tariff and finance data? [**▶ Trigger me**](mailto:fulsundar.a@northeastern.edu?subject=Let%27s%20build%20something) and I'll take it from there.
-
-</details>
 
 ## Projects
 
