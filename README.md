@@ -13,7 +13,7 @@
 <p align="center">
   I build the plumbing that data and AI systems run on (ingestion, orchestration, warehouses)<br>
   and the agents that sit on top of it.<br>
-  <sub>M.S. in Information Systems at Northeastern · graduating Dec 2026 · Boston</sub>
+  <sub>M.S. in Information Systems at Northeastern · Boston</sub>
 </p>
 
 ## Projects
