@@ -52,7 +52,7 @@
     </text>
   </g>
 
-  <text x="40" y="188" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#484f58">// my stack, as a pipeline</text>
+  <text x="40" y="182" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#6e7681">// my stack, as a pipeline</text>
 
   <!-- flow line under the nodes -->
   <line x1="100" y1="224" x2="800" y2="224" stroke="#30363d" stroke-width="2"/>
