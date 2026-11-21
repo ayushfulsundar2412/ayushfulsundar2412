@@ -161,4 +161,3 @@ $ airflow dags trigger hello_ayush
 
 [**▶ Trigger the DAG (email me)**](mailto:fulsundar.a@northeastern.edu?subject=Hello%20Ayush) · [LinkedIn](https://www.linkedin.com/in/ayush-fulsundar)
 
-<sub>The banner is one hand-written SVG and the diagrams are Mermaid, so everything here is plain text in this repo.</sub>
